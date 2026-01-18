@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: yolo-fashion-mnist
+Version: 0.0.0
+Summary: ROS2 node for YOLOv8 Fashion MNIST detection
+Home-page: UNKNOWN
+Maintainer: jbw
+Maintainer-email: jbw@todo.todo
+License: Apache-2.0
+Platform: UNKNOWN
+Provides-Extra: test
+
+UNKNOWN
+

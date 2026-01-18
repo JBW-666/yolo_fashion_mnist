@@ -1,0 +1,22 @@
+[0.351s] Invoking command in '/home/jbw/yolo_fashion_mnist/ros2_ws/src/yolo_fashion_mnist': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/jbw/yolo_fashion_mnist/ros2_ws/build/yolo_fashion_mnist/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jbw/yolo_fashion_mnist/ros2_ws/install/yolo_fashion_mnist/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/yolo_fashion_mnist build --build-base /home/jbw/yolo_fashion_mnist/ros2_ws/build/yolo_fashion_mnist/build install --record /home/jbw/yolo_fashion_mnist/ros2_ws/build/yolo_fashion_mnist/install.log --single-version-externally-managed install_data
+[0.475s] running egg_info
+[0.475s] writing ../../build/yolo_fashion_mnist/yolo_fashion_mnist.egg-info/PKG-INFO
+[0.475s] writing dependency_links to ../../build/yolo_fashion_mnist/yolo_fashion_mnist.egg-info/dependency_links.txt
+[0.475s] writing entry points to ../../build/yolo_fashion_mnist/yolo_fashion_mnist.egg-info/entry_points.txt
+[0.475s] writing requirements to ../../build/yolo_fashion_mnist/yolo_fashion_mnist.egg-info/requires.txt
+[0.475s] writing top-level names to ../../build/yolo_fashion_mnist/yolo_fashion_mnist.egg-info/top_level.txt
+[0.476s] reading manifest file '../../build/yolo_fashion_mnist/yolo_fashion_mnist.egg-info/SOURCES.txt'
+[0.477s] writing manifest file '../../build/yolo_fashion_mnist/yolo_fashion_mnist.egg-info/SOURCES.txt'
+[0.477s] running build
+[0.477s] running build_py
+[0.477s] running install
+[0.477s] running install_lib
+[0.477s] running install_data
+[0.477s] running install_egg_info
+[0.478s] removing '/home/jbw/yolo_fashion_mnist/ros2_ws/install/yolo_fashion_mnist/lib/python3.10/site-packages/yolo_fashion_mnist-0.0.0-py3.10.egg-info' (and everything under it)
+[0.478s] Copying ../../build/yolo_fashion_mnist/yolo_fashion_mnist.egg-info to /home/jbw/yolo_fashion_mnist/ros2_ws/install/yolo_fashion_mnist/lib/python3.10/site-packages/yolo_fashion_mnist-0.0.0-py3.10.egg-info
+[0.479s] running install_scripts
+[0.489s] Installing yolo_pub script to /home/jbw/yolo_fashion_mnist/ros2_ws/install/yolo_fashion_mnist/lib/yolo_fashion_mnist
+[0.489s] Installing yolo_sub script to /home/jbw/yolo_fashion_mnist/ros2_ws/install/yolo_fashion_mnist/lib/yolo_fashion_mnist
+[0.489s] writing list of installed files to '/home/jbw/yolo_fashion_mnist/ros2_ws/build/yolo_fashion_mnist/install.log'
+[0.502s] Invoked command in '/home/jbw/yolo_fashion_mnist/ros2_ws/src/yolo_fashion_mnist' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/jbw/yolo_fashion_mnist/ros2_ws/build/yolo_fashion_mnist/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jbw/yolo_fashion_mnist/ros2_ws/install/yolo_fashion_mnist/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/yolo_fashion_mnist build --build-base /home/jbw/yolo_fashion_mnist/ros2_ws/build/yolo_fashion_mnist/build install --record /home/jbw/yolo_fashion_mnist/ros2_ws/build/yolo_fashion_mnist/install.log --single-version-externally-managed install_data

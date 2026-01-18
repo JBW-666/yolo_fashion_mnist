@@ -1,0 +1,17 @@
+path: /home/jbw/yolo_fashion_mnist/yolo_dataset  # 数据集根路径
+train: images/train  # 训练集图片路径（相对path）
+val: images/val      # 验证集图片路径（相对path）
+
+# 类别配置
+nc: 10  # 类别数（Fashion MNIST共10类）
+names:  # 类别名称（0-9对应）
+  0: T-shirt/top
+  1: Trouser
+  2: Pullover
+  3: Dress
+  4: Coat
+  5: Sandal
+  6: Shirt
+  7: Sneaker
+  8: Bag
+  9: Ankle boot

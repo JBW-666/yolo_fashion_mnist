@@ -1,0 +1,40 @@
+# Data files
+raw_data/
+yolo_dataset/
+
+# Model files
+*.pt
+yolov8n.pt
+
+# Training outputs
+runs/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.env
+
+# Cache
+*.cache
+.cache/
+
+# ROS
+install/
+build/
+log/

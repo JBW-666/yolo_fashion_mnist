@@ -1,0 +1,4 @@
+[console_scripts]
+yolo_pub = yolo_fashion_mnist.publisher_node:main
+yolo_sub = yolo_fashion_mnist.subscriber_node:main
+
